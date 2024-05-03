@@ -1,0 +1,54 @@
+.pricing-container {
+  margin-top: 50px;
+}
+.pricing {
+  font-weight: 600;
+  color: #ff6b15;
+}
+.title h3 {
+  margin-top: 20px;
+  font-weight: 600;
+  margin-bottom: 45px;
+}
+.pricing-detail {
+  color: #3d3d3d;
+  font-weight: 600;
+  text-align: justify;
+  font-size: 16px;
+}
+.card-content {
+  color: #ffffff;
+}
+.pricing-card {
+  //   margin-right: 150px;
+  padding: 35px 64px;
+  background-color: #ff6b15;
+  text-align: center;
+  border-radius: 20px;
+  //   height: 450px;
+}
+.month {
+  font-size: 24px;
+  font-weight: 400;
+}
+.price-data h4 {
+}
+.price {
+  font-weight: 500;
+}
+.create-btn {
+  margin: 45px;
+}
+.create-btn button {
+  padding: 20px 45px;
+  background: #ffffff;
+  color: #000;
+  font-weight: 800;
+  font-size: 16px;
+  text-transform: capitalize;
+  color: #ff6b15;
+  border-radius: 10px;
+}
+.create-btn button:hover {
+  background: #ffffff;
+}
