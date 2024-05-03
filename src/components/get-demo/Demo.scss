@@ -1,0 +1,37 @@
+.demo-container {
+  background: #ff6b15;
+  padding: 100px 20px;
+  color: #ffffff;
+}
+.demo-left h6 {
+  text-transform: uppercase;
+  font-weight: 700;
+}
+.demo-right {
+}
+.demo-right {
+  font-weight: 600;
+  font-size: 16px;
+}
+.demo-btn-box {
+  width: 30%;
+  margin: 0 auto;
+}
+.demo-btn-box button {
+  padding: 13px 33px;
+  background: #ffffff;
+  color: #000;
+  font-weight: 700;
+  font-size: 16px;
+  text-transform: capitalize;
+  color: #ff6b15;
+  margin-top: 20px;
+}
+.demo-btn-box button:hover {
+  background: #ffffff;
+}
+@media only screen and (max-width: 768px) {
+  .demo-btn-box {
+    width: 100%;
+  }
+}
